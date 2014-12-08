@@ -1,0 +1,68 @@
+1 All the shoes are Reebok with the exception of two shoes , All the shoes are Nike with the exception on two shoes. All the shoes are Fubu with the exception of two shoes. How many shoes are there ?
+Answer: 3
+
+
+2 8 if a clock looses 2 secs per day, how much time will it loose in 2 days ?
+
+ Answer: 2 + 4 = 6, so 6 secs
+
+3 if apple is for 40 cents, banana is for 60 cents and grapefruit is for 80 cents then what pear is for???
+Answer 40 = 20* number of vowels  (A E I O U, some Y)
+
+
+
+
+1.        4 The buildings of an office are numbered sequentially. Person A is in building 1 and person B is in building 106. If A crosses 5 offices in a minute and B crosses 10 offices in a minute, at which office number will they both meet?
+Answer: (5+10)*x = (106-1) so  (106-1)/15=7 So they meet at office number 7*5 =35, so 35 + 1 = 36
+so, answer is 36
+
+
+5 If one and a half teenagers, eat one and a half pizzas in one and a half days, how many pizzas can 9 teenagers eat in 3 days
+
+
+Give them more time, they eat more pizzas.
+Give them more friends, they eat more pizzas.
+
+The time was double (3 days / 1.5 days) and the people was 6x times more (9 / 1.5), thus the number of pizzas should be 2 * 6 times more. That is: 1.5 pizzas * 2 * 6 = 18
+Answer: 18 pizzas
+
+
+6 A man goes to a hardware shop and asks for price of an item. The shop keeper replies that the item is "one for $1".
+The man gives the shop keeper "$3 for 600". What did the man buy for his newly painted house?
+Answer: 600 is the house number. This man buy three items(6,0,0) for his newly painted house located at 600.
+
+7 Find the missing number in the series.
+3, 8 , 18 , _ , 78
+
+Anwser: 3*2+2 = 8 --> 2*x+2, so answer is 38
+
+
+8.  Find the next number in the series.
+-3, 6, -18, 72, - 360
+Answer: 2160
+find how 3 become 6, use * + - /, then we have 6/3=2, 18/6=3, so 360*6 = 2160
+
+
+9.  3, 5, 7, 9, 11, 13. Which is least like others?
+Answer: 9, prime number
+
+
+10    35 cents is paid by two coins one is not a dime. What are the two coins?
+Answer: dime is 10 cents, one is not a dime mean nothing, so answer is one quater and one dime 25+10
+addition: penny(1 cent) nickle (5 cents) dime (10 cents) quater (25 cents), half dollar, dollar
+
+11 A bear have to climb a 60.5 feet long hill. It climbs 3 feet in every minute before it fall down for 2 feet. How long it will take to climb the hill?
+
+Answer: Effective feet is 1 foot overall. So till 58 feet it needs 58 minutes and then it climbs the 3 feet so it is 59 minutes overall.
+
+
+
+
+
+
+
+
+
+
+
+
